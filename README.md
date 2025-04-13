@@ -1,5 +1,21 @@
-# 💫 About Me:
-🚀 Hey there! Im Shivansh<br>🎯 I’m currently working on: Flutter projects like quiz apps, expense trackers, and dynamic UI-based apps to build a strong portfolio.<br>🤝 I’m looking to collaborate on: App development, especially in Flutter, and open-source contributions that sharpen UI/UX and backend integration skills.<br>✋ I’m looking for help with: Landing my first tech internship and improving backend + Firebase integration in apps.<br>🌱 I’m currently learning: Flutter, Dart, and soon jumping into Firebase and Node.js for backend development.<br>💬 Ask me about: My learning journey, how I stay consistent (even with ADHD), and how I'm building from zero with pure ambition.<br>⚡ Fun fact: I started coding to get rich… now I’m lowkey falling for the grind. Still broke, but my GitHub looks expensive. 😎
+# 💫 About Me: Hey there! I am Shivansh...
+🎯 currently building:
+flutter apps that go hard, crash less, and lowkey carry my resume 🫡
+
+🤝 collab with me if:
+you don’t cry during merge conflicts & your UI isn’t giving 2012 html vibes 🫠
+
+🧠 i need help with:
+firebase ghosting me like i texted “wyd” at 2am 😩
+
+🌱 learning:
+flutter, firebase, and emotional stability (in that order)
+
+💬 ask me about:
+how i went from tutorial hell to pushing to main like i own github
+
+⚡ fun fact:
+debugging is just me talking to my laptop like it betrayed me. and it did.
 
 
 ## 🌐 Socials:
