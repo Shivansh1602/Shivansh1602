@@ -1,21 +1,23 @@
 # About Me: Hey there! I am Shivansh...
-🎯 currently building:
-flutter apps that go hard, crash less, and lowkey carry my resume 
+🎯 Currently building:
+Flutter apps that go hard, crash less, and lowkey carry my resume.
 
- collab with me if:
-you don’t cry during merge conflicts & your UI isn’t giving 2012 html vibes 
+🤝 Collab with me if:
+You don’t cry during merge conflicts & your UI isn’t giving 2012 HTML vibes.
 
- i need help with:
-firebase ghosting me like i texted “wyd” at 2am 
+🆘 I need help with:
+Firebase ghosting me like I texted “wyd” at 2am.
 
- learning:
-flutter, firebase, and emotional stability (in that order)
+📚 Learning:
+Flutter, Firebase, and emotional stability (in that order).
 
- ask me about:
-how i went from tutorial hell to pushing to main like i own github
+💬 Ask me about:
+How I went from tutorial hell to pushing to main like I own GitHub.
 
- fun fact:
-debugging is just me talking to my laptop like it betrayed me. and it did.
+🧠 Fun fact:
+Debugging is just me talking to my laptop like it betrayed me.
+And it did.
+
 
 
 ## 🌐 Socials:
