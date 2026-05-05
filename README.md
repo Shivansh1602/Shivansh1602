@@ -1,22 +1,21 @@
 # About Me: Hey there! I am Shivansh...
-🎯 Currently building:
-Flutter apps that go hard, crash less, and lowkey carry my resume.
+Currently building:
+End-to-end data warehouses and ETL pipelines using SQL Server, Python, and Docker.
 
-🤝 Collab with me if:
-You don’t cry during merge conflicts & your UI isn’t giving 2012 HTML vibes.
+Collab with me if:
+You're working on data engineering, analytics, or anything that turns raw data into decisions.
 
-🆘 I need help with:
-Firebase ghosting me like I texted “wyd” at 2am.
+I need help with:
+Cloud platform integrations — AWS and Azure on the roadmap.
 
-📚 Learning:
-Flutter, Firebase, and emotional stability (in that order).
+Learning:
+Data Engineering, SQL Server, Medallion Architecture, Cloud Platforms.
 
-💬 Ask me about:
-How I went from tutorial hell to pushing to main like I own GitHub.
+Ask me about:
+Data warehousing, ETL pipelines, Oracle APEX, or breaking into tech off-campus.
 
-🧠 Fun fact:
-Debugging is just me talking to my laptop like it betrayed me.
-And it did.
+Fun fact:
+Interned at PwC India from a tier-4 college. Off-campus. Built the opportunity myself.
 
 
 
@@ -25,6 +24,13 @@ And it did.
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivansh1602&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivansh1602&theme=great-gatsby&hide_border=true)<br/>
