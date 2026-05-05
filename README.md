@@ -12,10 +12,8 @@ Learning:
 Data Engineering, SQL Server, Medallion Architecture, Cloud Platforms.
 
 Ask me about:
-Data warehousing, ETL pipelines, Oracle APEX, or breaking into tech off-campus.
+Data warehousing, ETL pipelines, Oracle APEX
 
-Fun fact:
-Interned at PwC India from a tier-4 college. Off-campus. Built the opportunity myself.
 
 
 
